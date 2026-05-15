@@ -1,4 +1,7 @@
 # Symfony Messenger Bundle
+
+![Symfony Messenger Bundle](.github/header.png)
+
 The `SymfonyMessengerBundle` offers a suite of middleware extensions designed to enhance the functionality of the Symfony Messenger component.
 
 ## Installation
